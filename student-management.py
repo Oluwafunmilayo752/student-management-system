@@ -1,8 +1,8 @@
 students = []
 
 def add_student():
-    name = input("Enter student name: ")
-    matric_number = input("Enter matric number: ")
+    name = input("Adeniran Oluwafunmilayo Adedoyin : ")
+    matric_number = input("24/13612: ")
     students.append({
         "name": name,
         "matric_number": matric_number
